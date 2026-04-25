@@ -223,7 +223,7 @@ Nous remercions sincèrement Pr. NOUH Said et Dr. Taoufik AMZIL pour leur encadr
 @mastersproject{alouani2026recrutia,
   title={Détection et mitigation des biais algorithmiques dans les modèles 
          de prédiction du turnover des ressources humaines},
-  author={Alouani, Hajar and Bousyf, Wahiba and Chaaban, Malika and Boussaid, Salama},
+  author={Alouani Hajar, Bousyf Wahiba, Chaaban Malika and Boussaid Salama},
   year={2026},
   school={Université Hassan II de Casablanca - Faculté des Sciences Ben M'Sick},
   type={Projet de Fin de Module},
